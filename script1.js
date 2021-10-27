@@ -1,2 +1,2 @@
-document.body.innerHTML + '<p>JavaScript</p>'
+document.body.innerHTML + '<h1>JavaScript</h1>'
 console.log('Test 2')
