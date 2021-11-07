@@ -1,2 +1,2 @@
 document.body.innerHTML + '<h1>JavaScript</h1>'
-console.log('Свят хуйло')
+console.log('Test 2')
